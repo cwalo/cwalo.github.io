@@ -1,0 +1,232 @@
+// Custom styling to match coreywalo.com
+
+// Typography
+$base-font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+$header-font-family: 'Avenir', 'Avenir Next', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+$base-font-size: 16px;
+$base-line-height: 1.6;
+
+// Colors - Minimalist monochromatic scheme
+$text-color: #333;
+$background-color: #fff;
+$link-color: #333;
+$link-hover-color: #666;
+$border-color: #e8e8e8;
+
+// Layout
+$content-width: 800px;
+$spacing-unit: 30px;
+
+// Override default styles
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body {
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+  line-height: $base-line-height;
+  color: $text-color;
+  background-color: $background-color;
+  margin: 0;
+  padding: 0;
+}
+
+// Main wrapper
+.wrapper {
+  max-width: $content-width;
+  margin: 0 auto;
+  text-align: center;
+}
+
+// Header styling
+.site-header {
+  border: none !important;
+  border-top: none !important;
+  border-bottom: none !important;
+  background-color: transparent;
+  text-align: center;
+  padding: $spacing-unit 0 $spacing-unit 0;
+  margin-top: 0;
+}
+
+.site-branding {
+  display: block;
+  width: 100%;
+}
+
+.site-title {
+  font-family: $header-font-family;
+  font-size: 32px !important;
+  font-weight: 600;
+  letter-spacing: 5px;
+  margin: 0 !important;
+  color: $text-color;
+  text-decoration: none;
+  display: block !important;
+  line-height: 1.1;
+  width: 100%;
+  padding-bottom: $spacing-unit / 2;
+  text-transform: uppercase;
+  
+  &:hover {
+    color: $text-color;
+    text-decoration: none;
+  }
+}
+
+.site-description {
+  font-family: $header-font-family;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 5px;
+  color: $text-color;
+  margin: 8px 0 0 0 !important;
+  line-height: 1.4;
+  display: block !important;
+  width: 100%;
+  text-transform: uppercase;
+}
+
+// Navigation
+.site-nav {
+  text-align: center;
+  margin: 0;
+  
+  .trigger {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 40px;
+  }
+  
+  .page-link {
+    color: $link-color;
+    text-decoration: underline;
+    font-size: 1em;
+    white-space: nowrap;
+    
+    &:hover {
+      color: $link-hover-color;
+      text-decoration: underline;
+    }
+  }
+}
+
+// Content
+.page-content {
+  padding: 0;
+  
+  .wrapper {
+    text-align: left;
+  }
+}
+
+.post-list {
+  list-style: none;
+  margin-left: 0;
+  
+  .post-meta {
+    font-size: 0.9em;
+    color: $text-color;
+    margin-bottom: 5px;
+  }
+  
+  .post-link {
+    color: $link-color;
+    text-decoration: underline;
+    font-size: 1.1em;
+    
+    &:hover {
+      color: $link-hover-color;
+    }
+  }
+  
+  li {
+    margin-bottom: $spacing-unit;
+    text-align: left;
+  }
+}
+
+// Footer
+.site-footer {
+  border-top: none;
+  padding: $spacing-unit 0;
+  text-align: center;
+  margin-top: $spacing-unit * 2;
+  font-family: $header-font-family;
+  
+  .footer-heading {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+    color: $text-color;
+  }
+  
+  .footer-col-wrapper {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 40px;
+    margin-bottom: 00px;
+  }
+  
+  .footer-col {
+    text-align: center;
+  }
+  
+  .contact-list,
+  .social-media-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    
+    li {
+      margin: 5px 0;
+    }
+    
+    a {
+      color: $link-color;
+      text-decoration: none;
+      
+      &:hover {
+        color: $link-hover-color;
+      }
+    }
+  }
+  
+  .footer-description {
+    margin-top: 20px;
+    font-style: italic;
+    color: $text-color;
+  }
+}
+
+// Remove default minima styling
+.site-header .wrapper {
+  border-bottom: none;
+}
+
+// Responsive design
+@media screen and (max-width: 600px) {
+  .wrapper {
+    padding: $spacing-unit / 2;
+  }
+  
+  .site-title {
+    font-size: 2.2em;
+  }
+  
+  .site-description {
+    font-size: 1.1em;
+  }
+  
+  .site-nav .trigger {
+    gap: 25px;
+  }
+  
+  .site-nav .page-link {
+    font-size: 0.9em;
+  }
+}

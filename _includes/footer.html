@@ -1,0 +1,24 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="social-media-list">
+          {%- if site.github_username -%}
+            <li><a href="https://github.com/{{ site.github_username | cgi_escape | escape }}"><span class="username">github</span></a></li>
+          {%- endif -%}
+          {%- if site.twitter_username -%}
+            <li><a href="https://www.x.com/{{ site.twitter_username | cgi_escape | escape }}"><span class="username">x</span></a></li>
+          {%- endif -%}
+          {%- if site.linkedin_username -%}
+            <li><a href="https://www.linkedin.com/in/{{ site.linkedin_username | cgi_escape | escape }}"><span class="username">linkedin</span></a></li>
+          {%- endif -%}
+          {%- if site.email -%}
+            <li><a href="mailto:{{ site.email }}"><span class="username">say hello</span></a></li>
+          {%- endif -%}
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>

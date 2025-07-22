@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Blog
+title: Corey Walo
 email: hello@coreywalo.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Corey Walo's blog on iOS development, musings, philosophy, and more.
+description: Audio and Software Engineer. Musician. Human.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.coreywalo.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: coreywalo
-github_username:  cwalo
+github_username: cwalo
+linkedin_username: coreywalo
 
 # Build settings
 theme: minima
