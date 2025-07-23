@@ -25,15 +25,15 @@ The goals were relatively simple:
 
 For some, you might just be able to keep those goals in the back of your mind and chug along, but I gave myself some rules:
 
-1) You're allowed to work on no more than **three projects** (or domains) at a time. Anything else goes in the bucket of ideas until you've completed a project or decided it's no longer worth completing.
+1. You're allowed to work on no more than **three projects** (or domains) at a time. Anything else goes in the bucket of ideas until you've completed a project or decided it's no longer worth completing.
 
-2) At the end of each week, **decide which project you're going to work on** the following week. This can either be the same project or one of the other two.
+2. At the end of each week, **decide which project you're going to work on** the following week. This can either be the same project or one of the other two.
 
-3) **Decide what you want to accomplish** that week. This could be one large goal or a few small goals.
+3. **Decide what you want to accomplish** that week. This could be one large goal or a few small goals.
 
-4) **Work on the project at least once a day** for any amount of time.
+4. **Work on the project at least once a day** for any amount of time.
 
-5) If at any point during the week you want to work on something else, you either continue with your chosen project or **take the rest of the week off from all projects**.
+5. If at any point during the week you want to work on something else, you either continue with your chosen project or **take the rest of the week off from all projects**.
 
 ### Yeah, but why?
 
@@ -51,14 +51,14 @@ Rule #5 ended up being one of the most important for me. I tend to hyperfocus on
 
 After using this for about three years now, it's resulted in:
 
-1) Publishing [Peep](https://peep.taptempolabs.com) on the App Store
+1. Publishing [Peep](https://peep.taptempolabs.com) on the App Store
 
-2) Starting a business sewing record bags for DJs
+2. Starting a business sewing record bags for DJs
 
-3) Finishing some new music
+3. Finishing some new music
 
-4) Learning Unity for game development
+4. Learning Unity for game development
 
-5) Learning Touch Designer
+5. Learning Touch Designer
 
 Lastly, even with this small amount of structure, there are still periods where things go off the rails, but I've spent enough time in therapy to learn to give myself some grace and you should, too.
