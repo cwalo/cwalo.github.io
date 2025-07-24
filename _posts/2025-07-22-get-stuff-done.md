@@ -49,16 +49,6 @@ Rule #5 ended up being one of the most important for me. I tend to hyperfocus on
 
 ### The Result
 
-After using this for about three years now, it's resulted in:
+After using this on and off for about three years now, I've finished more projects, written more apps, recorded more music, and learned more than I have in probably the last *ten* years.
 
-1. Publishing [Peep](https://peep.taptempolabs.com) on the App Store
-
-2. Starting a business sewing record bags for DJs
-
-3. Finishing some new music
-
-4. Learning Unity for game development
-
-5. Learning Touch Designer
-
-Lastly, even with this small amount of structure, there are still periods where things go off the rails, but I've spent enough time in therapy to learn to give myself some grace and you should, too.
+But even with this small amount of structure, there are still periods where things go off the rails, but I've spent enough time in therapy to learn to give myself some grace and you should, too.
