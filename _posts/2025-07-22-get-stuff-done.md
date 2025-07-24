@@ -2,7 +2,7 @@
 layout: post
 title:  "A Framework for Getting Stuff Done... Without Burning Out"
 date:   2025-07-22
-categories: adhd productivity projects
+categories: posts
 ---
 
 ### How'd I get here?
@@ -11,7 +11,7 @@ A few years back after being laid off, I told myself I'd take six months off. I 
 
 During this period, I was reminded of a concept my old colleague [Joseph Kuefler](https://www.josephkuefler.com/) (an amazing illustrator and children's book author) shared with me. He called it "the year of doing." He would choose one meaningful project a year and focus only on that. The result for him was his first published children's book. I found this inspiring and made some attempts to kick start the practice for myself, but it just didn't click. I would get bored and found it hard to stay motivated on a single project for that long.
 
-Now, I've always been someone who juggles a lot of hobbies and projects. It's no doubt a symptom of ADHD, but I also just love learning and building. Early on during this 'sabbatical,' I would wake up and start working on whatever felt interesting. Sometimes it would be the same thing I'd been working on the day before, or the past week, or an entirely new project. As time went on I realized I was learning a lot, but not particularly focused. It was a lot of play time and I wasn't making meaningful progress on the things I wanted to finish. After some reflection, taking the time to understand my motivations, and noting how I like to self-learn, I came up with a "framework" for myself.
+Now, I've always been someone who juggles a lot of hobbies and projects. It's no doubt a symptom of ADHD, but I also just love learning and building. Early on during this "sabbatical," I would wake up and start working on whatever felt interesting. Sometimes it would be the same thing I'd been working on the day before, or the past week, or an entirely new project. As time went on I realized I was learning a lot, but not particularly focused. It was a lot of play time and I wasn't making meaningful progress on the things I wanted to finish. After some reflection, taking the time to understand my motivations, and noting how I like to self-learn, I came up with a "framework" for myself.
 
 ### The Framework
 
@@ -47,8 +47,8 @@ Rule #4 is really just the consistency principle. Spending five minutes on anyth
 
 Rule #5 ended up being one of the most important for me. I tend to hyperfocus on the new shiny idea, even in the middle of something else. It leads me to bounce around and regularly context switch which can *feel* productive, but ultimately slows everything down. And worse, after too many bouts of these hyperfocus periods, I'm drained, burned out, and don't want to work on anything. So, if I *really* want to work on another project, I take that as my cue to take a break from everything.
 
-### The Result
+### The Results
 
 After using this on and off for about three years now, I've finished more projects, written more apps, recorded more music, and learned more than I have in probably the last *ten* years.
 
-But even with this small amount of structure, there are still periods where things go off the rails, but I've spent enough time in therapy to learn to give myself some grace and you should, too.
+That said, even with this small amount of structure, there are still periods where things go off the rails, but I've spent enough time in therapy to learn to give myself some grace and you should, too.
