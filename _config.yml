@@ -26,6 +26,8 @@ url: "https://blog.coreywalo.com" # the base hostname & protocol for your site, 
 twitter_username: coreywalo
 github_username: cwalo
 linkedin_username: coreywalo
+disqus:
+  shortname: blog-coreywalo-com
 
 # Build settings
 theme: minima

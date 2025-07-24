@@ -1,6 +1,5 @@
 ---
 layout: post
-comments: true
 title:  "A Framework for Getting Stuff Done... Without Burning Out"
 date:   2025-07-22
 categories: adhd productivity projects
