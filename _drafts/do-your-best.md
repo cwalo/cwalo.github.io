@@ -2,7 +2,7 @@
 layout: post
 title:  "If you do your best..."
 date:   2025-07-22
-categories: productivity quotes inspiration
+categories: posts
 ---
 
 Back in 2022 I took a three week solo trip to Japan. Like many, it was a country and a culture I admired and had always wanted to visit. As I planned, a few friends and family members offered or asked to go with me, but something in my gut told me it would be important to go alone. I'd been laid off, was debating what my next steps would be, and felt that I needed a proper quest to help reset. Thrown into the most foreign place I'd ever visited, I learned a lot about myself, my motivations, and how I wished to move through the world. But one moment from those three weeks is burned into my memory and has become somewhat of a mantra for me.
